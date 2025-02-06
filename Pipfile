@@ -5,6 +5,13 @@ name = "pypi"
 
 [packages]
 appdirs = "*"
+docopt = "*"
+playsound = "*"
+termcolor = "*"
+six = "*"
+pyparsing = "*"
+pyfiglet = "*"
+packaging = "*"
 
 [dev-packages]
 
