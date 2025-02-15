@@ -12,6 +12,8 @@ six = "*"
 pyparsing = "*"
 pyfiglet = "*"
 packaging = "*"
+flask = "*"
+migrate = "*"
 
 [dev-packages]
 
